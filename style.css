@@ -1,0 +1,88 @@
+.container-btm{
+    margin-bottom: 80px;
+}
+.heading-color{
+    background: #F0FFF0;
+}
+.all-btn{
+    width: 104px;
+    height: 40px;
+    background: #21B573;
+    border-radius: 33px;
+    color: white;
+    cursor: pointer;
+}
+
+/*navbar section*/
+.logo-img{
+    width: 198.07px;
+    height: 50px;
+}
+span{
+    color: #21B573;
+}
+.heading-text{
+    font-weight: bolder;
+}
+.paragraph-text{
+    color: grey;
+}
+/*category section*/
+.category-box{
+    background: #F0FFF0;
+    padding: 30px;
+    border-radius: 12px;
+    text-align: center;
+}
+.category-box:hover{
+    background: #21B573;
+    border: none;
+    border-radius: 12px;
+    box-shadow: 5px 5px 10px #F0FFF0;
+}
+.category-img{
+    height: 70px;
+}
+
+/*online course section*/
+.footer-display{
+    font-size: 15px;
+}
+.card{
+    border-radius: 15px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.footer-icon-resize{
+    height: 22px;
+    width: 22px;
+}
+.card-footer{
+    border: none;
+    background: white;
+}
+
+/*testimonial section*/
+.man-img{
+    width: 120px;
+    height: 120px;
+}
+#subscribe{
+    height: 300px;
+    background-color: #F0FFF0;
+}
+#subscribe h5{
+    color: gray;
+}
+/*footer section*/
+footer{
+    background-color: #282531;
+}
+.footer-left-text{
+    color: white;
+}
+.footer-text{
+    color: white;
+}
+.copyright-text{
+    color: white;
+}
